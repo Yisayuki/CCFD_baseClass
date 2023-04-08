@@ -10,7 +10,7 @@ a repository for recording learning materials
     参加活动（比赛）过程中所接触到的各种有益的资源文件，比赛要求与个人心德  
     其他你认为值得参考学习的各种资源
    
-  由于本项目体积很大，故推荐采用在 GitHub Web 端直接上传的方式，具体操作如下：
+推荐采用在 GitHub Web 端直接上传的方式，具体操作如下：
 
     1.首先 Fork 本项目  
     2.上传文件到已有文件夹：打开对应文件夹，点击绿色 Download 按钮旁的 upload，上传你的文件。  
